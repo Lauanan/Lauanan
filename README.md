@@ -1,10 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0b1f3a,70:12345b,100:163d6b&height=220&section=header&text=Jia'nan%20Liu&fontSize=44&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Trustworthy%20AI%20%7C%20AI%20Safety%20%7C%20Agent%20Safety&descAlignY=64&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0b2a4a,70:144272,100:1e5aa8&height=220&section=header&text=Jia'nan%20Liu&fontSize=44&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Trustworthy%20AI%20%7C%20AI%20Safety%20%7C%20Agent%20Safety&descAlignY=65&descSize=18" />
 
 ### PhD Student @ Fudan University & Shanghai Innovation Institute (SII)
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&lines=Safety+for+LLMs+and+Agents;Agent+Guard+%7C+LLM+Guard+%7C+Runtime+Safety;Building+safer+and+more+controllable+AI" alt="Typing SVG" />
+### 📧 Liujianan@sii.edu.cn
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&lines=Safety+for+LLMs+and+Agents;Agent+Guard+%7C+LLM+Guard+%7C+Runtime+Safety;Building+safer+and+controllable+AI" alt="Typing SVG" />
 
 <br/>
 
@@ -54,3 +56,5 @@ Research Mode: ACTIVE
 Primary Direction: Agent Safety / LLM Safety
 Keywords: Agent Guard, LLM Guard, Runtime Protection
 Current Goal: Build safer, more trustworthy, and more controllable AI systems
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e5aa8,40:144272,70:0b2a4a,100:020617&height=120&section=footer" />
