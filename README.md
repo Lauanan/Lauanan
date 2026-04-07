@@ -1,8 +1,12 @@
 <div align="center">
 
-# Jia'nan Liu | 刘佳男
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:081120,50:10213d,100:0f2d52&height=180&section=header&text=Jia'nan%20Liu&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Trustworthy%20AI%20%7C%20AI%20Safety%20%7C%20Agent%20Safety&descAlignY=65&descSize=18" />
 
 ### PhD Student @ Fudan University & Shanghai Innovation Institute (SII)
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&lines=Safety+for+LLMs+and+Agentic+Systems;Agent+Guard+%7C+LLM+Guard+%7C+Runtime+Safety;Building+safer%2C+trustworthy%2C+and+controllable+AI" alt="Typing SVG" />
+
+<br/>
 
 <img src="https://img.shields.io/badge/Trustworthy%20AI-0F172A?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20Safety-1D4ED8?style=for-the-badge&logoColor=white" />
