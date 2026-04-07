@@ -1,5 +1,4 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0b1f3a,70:12345b,100:163d6b&height=220&section=header&text=Jia'nan%20Liu&fontSize=44&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Trustworthy%20AI%20%7C%20AI%20Safety%20%7C%20Agent%20Safety&descAlignY=64&descSize=18" />
 
 ### 📧 Liujianan@sii.edu.cn
@@ -56,7 +55,6 @@ Research Mode: ACTIVE
 Primary Direction: Agent Safety / LLM Safety
 Keywords: Agent Guard, LLM Guard, Runtime Protection
 Current Goal: Build safer, more trustworthy, and more controllable AI systems
-
 </div>
 ```
 <div align="center">
