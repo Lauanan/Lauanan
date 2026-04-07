@@ -55,7 +55,6 @@ Research Mode: ACTIVE
 Primary Direction: Agent Safety / LLM Safety
 Keywords: Agent Guard, LLM Guard, Runtime Protection
 Current Goal: Build safer, more trustworthy, and more controllable AI systems
-</div>
 ```
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:163d6b,35:12345b,70:0b1f3a,100:020617&height=120&section=footer" />
